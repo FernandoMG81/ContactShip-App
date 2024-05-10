@@ -5,8 +5,8 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "contact-ship-app",
-  description: "Challenge ContactShip by Fernando Gordillo",
+  title: "ContactShipAI",
+  description: "Challenge ContactShip by Fernando Gordillo"
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
